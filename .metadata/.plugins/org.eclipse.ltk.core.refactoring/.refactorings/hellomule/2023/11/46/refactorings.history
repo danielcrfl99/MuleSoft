@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;keystore-name.jks&apos; to &apos;hellomule-2/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;hellomule&apos;&#x0D;&#x0A;- Destination element: &apos;hellomule-2/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;keystore-name.jks&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="=hellomule-2/src\/main\/resources" element1="src/main/resources/keystore-name.jks" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1699747483314" units="0" version="1.0"/>
+</session>
