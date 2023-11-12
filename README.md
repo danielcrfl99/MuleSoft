@@ -12,6 +12,7 @@ The 8th activity is on the hellomule-2 repository.
 
 ### Tutorial file
 If you want to show my tutorial document you have this link: [Document](Actividade.pdf)
+In this document you can see the activities I did step by step.
 
 ### Build your first Hello Mule application  
 [Link to MuleSoft Tutorial](https://developer.mulesoft.com/tutorials-and-howtos/getting-started/hello-mule/)  
