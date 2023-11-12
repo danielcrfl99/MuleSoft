@@ -11,7 +11,7 @@ If you want to show the first 7 activities you need to check hellomule repositor
 The 8th activity is on the hellomule-2 repository.
 
 ### Tutorial file
-If you want to show my tutorial document you have this link: [Document](Actividades.pdf)
+If you want to show my tutorial document you have this link: [Document](Actividade.pdf)
 
 ### Build your first Hello Mule application  
 [Link to MuleSoft Tutorial](https://developer.mulesoft.com/tutorials-and-howtos/getting-started/hello-mule/)  
